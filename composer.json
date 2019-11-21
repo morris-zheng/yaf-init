@@ -1,0 +1,14 @@
+{
+    "name": "mauricecheang/yaf-init",
+    "description": "yaf init",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "1.6",
+        "monolog/monolog": "^1.25"
+    },
+    "autoload": {
+        "files": [
+            "library/functions.php"
+        ]
+    }
+}
